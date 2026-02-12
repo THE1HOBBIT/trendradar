@@ -91,20 +91,21 @@ platforms:
     name: "联合早报"
   - id: "mktnews"
     name: "MKT新闻"
+    
 
   # === 财经投资类 ===
   - id: "wallstreetcn-hot"
     name: "华尔街见闻 最热"
-  - id: "wallstreetcn-quick"
-    name: "华尔街见闻 快讯"
-  - id: "wallstreetcn-news"
-    name: "华尔街见闻 最新"
   - id: "cls-hot"
     name: "财联社热门"
   - id: "gelonghui"
     name: "格隆汇"
 
-  # === 科技类平台 ===
+   # === 科技类平台 ===
+  - id: "ithome"
+    name: "IT之家"
+  - id: "juejin"
+    name: "掘金"
   - id: "github"
     name: "GitHub"
   - id: "hackernews"
@@ -113,6 +114,12 @@ platforms:
     name: "Solidot"
   - id: "v2ex"
     name: "V2EX"
+  - id: "nowcoder"
+    name: "牛客网"
+  - id: "pcbeta"
+    name: "远景论坛"
+  - id: "sspai"
+    name: "少数派"
   - id: "producthunt"
     name: "ProductHunt"
 
